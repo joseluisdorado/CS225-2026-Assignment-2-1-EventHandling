@@ -8,11 +8,11 @@ TEST4 Callback function can be assigned to static methods
 TEST4 Succeed!
 TEST5 Event Listener
 TEST5 Succeed!
-TEST6 Event dispatcher for callbacks
+TEST6 Event Listener
 TEST6 Succeed!
-TEST7 Get event listener from Dispatcher
+TEST7 Get event listener from dispatcher
 TEST7 Succeed!
-TEST8 Event dispatcher can send events to their subscribed listeners
+TEST8 Event dispatcher can send events to its subscribed listeners
 Event Timer 1! has passed exactly 1 seconds
 Event Timer 1! has passed exactly 2 seconds
 Event Timer 2! has passed exactly 1 seconds
