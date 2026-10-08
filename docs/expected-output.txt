@@ -8,7 +8,7 @@ TEST4 Callback function can be assigned to static methods
 TEST4 Succeed!
 TEST5 Event Listener
 TEST5 Succeed!
-TEST6 Event Listener
+TEST6 Event dispatcher for callbacks
 TEST6 Succeed!
 TEST7 Get event listener from Dispatcher
 TEST7 Succeed!

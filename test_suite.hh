@@ -169,7 +169,7 @@ namespace Tests
         TEST( "Event Dispatcher for callbacks",
             "Listeners are stored in a EventDispatcher class, objects that implements the callback can subscribe to Events")
         {        
-            printf("TEST6 Event Listener\n");
+            printf("TEST6 Event dispatcher for callbacks\n");
 
             EventListener listener;
 
